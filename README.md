@@ -1,2 +1,2 @@
-# Python code to find larger number between two integers
-The codes provided, is a simple python program that can enable you get the largest number two numbers
+# My Python codes
+This respository contains most of the codes i have written while i was learning the basics of python programming
