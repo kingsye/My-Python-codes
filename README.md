@@ -1,2 +1,2 @@
-# My-Python-codes
-This repository contains all the codes i have been able to write while learning the basics of python programming
+# Python code to find larger number between two integers
+The codes provided, is a simple python program that can enable you get the largest number two numbers
